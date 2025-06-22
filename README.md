@@ -7,4 +7,5 @@ New update to the readme markdown
 Newer lines
 
 *These are even newer lines*
+
 Further modifications
